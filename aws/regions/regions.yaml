@@ -113,7 +113,7 @@ regions:
     public: true
     coordinates:
       latitude: 59
-      longitude: -18
+      longitude: 18
     zones:
       - "eu-north-1a"
       - "eu-north-1b"

@@ -263,8 +263,8 @@ regions:
     state: India
     public: true
     coordinates:
-      latitude: 33.86
-      longitude: 151
+      latitude: 19
+      longitude: 72.9
     zones:
       - "ap-south-1a"
       - "ap-south-1b"
@@ -277,7 +277,7 @@ regions:
     state: brazil
     public: true
     coordinates:
-      latitude: 23.5
+      latitude: -23.5
       longitude: -46.6
     zones:
       - "sa-east-1a"

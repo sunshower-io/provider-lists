@@ -1,0 +1,23 @@
+{
+  "name": "provider-lists",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunshower-io/provider-lists.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunshower-io/provider-lists/issues"
+  },
+  "homepage": "https://github.com/sunshower-io/provider-lists#readme",
+  "devDependencies": {
+    "gulp-shell": "^0.7.0",
+    "node-html-parser": "^1.1.15"
+  }
+}

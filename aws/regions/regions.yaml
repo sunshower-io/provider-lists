@@ -148,9 +148,9 @@ regions:
     description: "EU (London)"
     key: "eu-west-2"
     city: London
-    state: gbr
+    state: United Kingdom
     public: true
-    country: united-kingdom
+    country: gbr
     coordinates:
       latitude: 51
       longitude: 0
